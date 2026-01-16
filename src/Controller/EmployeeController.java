@@ -657,6 +657,6 @@ public class EmployeeController {
         public void setName(String name) { this.name = name; }
         public void setRole(String role) { this.role = role; }
         public void setContact(String contact) { this.contact = contact; }
-        public void setSalary(String salary) { this.salary = salary; }
+        public void setSalary(String salary) { this.salary = salary; } //aaa
     }
 }
